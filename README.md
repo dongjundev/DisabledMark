@@ -17,6 +17,6 @@
 * Opencv-3.3.0
 * Arduino IDE
 * Visual Studio 2017
-* Pycharm(python 언어 사용)
+* Pycharm(python)
 
 
