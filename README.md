@@ -1,6 +1,9 @@
 # disabledMark
 ### 장애인 주차구역 불법주차 단속
 
+## 영상
+[![영상](http://img.youtube.com/vi/ckOYBq5Vlew/0.jpg)](https://www.youtube.com/watch?v=ckOYBq5Vlew)
+
 ## 흐름도
 ![image](https://user-images.githubusercontent.com/60119368/117744383-880c6a00-b243-11eb-804e-2fcbfe021fdb.png)
 
